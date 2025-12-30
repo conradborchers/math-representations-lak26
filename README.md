@@ -20,6 +20,7 @@ Conrad Borchers, Manit Patel, Seiyon Lee, and Anthony F. Botelho
     year      = {2026},
     doi       = {10.1145/3785022.3785042}
 }
+```
 
 ## Folder Structure
 
