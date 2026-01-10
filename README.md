@@ -6,8 +6,6 @@ Supplementary repository for the manuscript *"Disentangling Learning from Judgme
 
 Borchers, C., Patel, M., Lee, S. M., & Botelho, A. F. (2026). *Disentangling Learning from Judgment: Representation Learning for Open Response Analytics*. Proceedings of the 16th International Learning Analytics and Knowledge Conference (LAK '26). Bergen, Norway: Association for Computing Machinery. https://doi.org/10.1145/3785022.3785042
 
-Conrad Borchers, Manit Patel, Seiyon Lee, and Anthony F. Botelho
-
 ```bibtex
 @inproceedings{borchers2026disentangling,
     author    = {Borchers, Conrad and Patel, Manit and Lee, Seiyon M. and Botelho, Anthony F.},
